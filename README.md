@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Brian Wickman.
 - ✨ I have degrees in mathematics and economics from Washington & Lee University.
-- 👀 I’m interested in the finance and economics applications of AI.
+- 👀 I’m interested in the finance and statistics applications of AI.
 - 🌱 I am a researcher on the Federal Reserve Bank of Chicago's Finance team.
 - 📫 Reach me by email at bwickman5@gmail.com.
 
